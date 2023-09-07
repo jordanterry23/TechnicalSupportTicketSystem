@@ -6,4 +6,4 @@ This website application was created using PHP and MySQL, using XAMPP as a devel
 
 After installing XAMPP, the included techsupport.sql file can be used to re-create the database tables for testing.
 
-This project is not created for commercial / live productions and is intended for educational use only.
+This project is not created for commercial/live productions and is intended for educational use only.
